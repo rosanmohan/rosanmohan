@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---Please check my Portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://rosanmohan.github.io/RosanTheDataScientist/)
+- Please check my [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://rosanmohan.github.io/RosanTheDataScientist/)
 -->
 
 # 💫 About Me:
-👋 Hi, I’m @rosanmohan, and welcome to my GitHub!<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on Verifone.<br>- 🌱 I’m currently learning AI.<br>- 👯 I’m looking to collaborate on Data Science.<br>- 💬 Ask me about Machine and Deep Learning.<br>- ⚡ Fun fact: -Sports lover<br>
+👋 Hi, I’m @rosanmohan, and welcome to my GitHub!<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on Verifone.<br>- 🌱 I’m currently learning AI.<br>- 👯 I’m looking to collaborate on Data Science.<br>- 💬 Ask me about Machine and Deep Learning.<br>- 📫 How to reach me: Please check my [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://rosanmohan.github.io/RosanTheDataScientist/)<br>- ⚡ Fun fact: -Sports lover<br>
 
 
 ## 🌐 Socials:
