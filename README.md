@@ -1,5 +1,4 @@
 ﻿
-
 <!-- Typing Effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -13,18 +12,20 @@
 
 ---
 
-### ï¿½ About Me
+### 🚀 About Me
 
 I am a passionate **Data Scientist** and **GenAI Engineer** focused on building intelligent agents and scalable LLM applications. My current work involves exploring the frontiers of **Large Language Models**, **RAG (Retrieval-Augmented Generation)**, and **Multi-Agent Systems**.
 
-- ðŸ”­ Iâ€™m currently working on building **Advanced RAG Pipelines** and **Agentic Workflows**.
-- ðŸŒ± Iâ€™m constantly learning about **Fine-tuning LLMs**, **LangChain**, and **Vector Databases**.
-- ðŸ‘¯ Iâ€™m looking to collaborate on Open Source **GenAI** projects.
-- ðŸ’¬ Ask me about **Transformers, Prompt Engineering, and AI Agents**.
+- 🔭 I’m currently working on building **Advanced RAG Pipelines** and **Agentic Workflows**.
+- 🌱 I’m constantly learning about **Fine-tuning LLMs**, **LangChain**, and **Vector Databases**.
+- 👯 I’m looking to collaborate on Open Source **GenAI** projects.
+- 💬 Ask me about **Transformers, Prompt Engineering, and AI Agents**.
 
 ---
 
-### ï¿½ï¸ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 **Languages & Mobile**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,7 +62,7 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 
 ---
 
-### ðŸ“Š GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -78,7 +79,7 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 
 ---
 
-### ðŸ† Latest Projects
+### 🏆 Latest Projects
 
 <!-- Pinned Repositories / Latest Works -->
 <!-- Note: Replace 'repo=rosanmohan' with your actual project repository name -->
@@ -94,7 +95,7 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 
 ---
 
-### ðŸŒ Connect with Me
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/rosanmohan">
@@ -114,4 +115,3 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rosanmohan&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </p>
-
