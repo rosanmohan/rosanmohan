@@ -64,12 +64,12 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosanmohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rosanmohan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanmohan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosanmohan&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=rosanmohan&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
@@ -77,12 +77,11 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 ### 🏆 Latest Projects
 
 <!-- Pinned Repositories / Latest Works -->
-<!-- You can customize these with your actual repo names -->
+<!-- Note: Replace 'repo=rosanmohan' with your actual project repository name -->
 <div align="center">
   <a href="https://github.com/rosanmohan/rosanmohan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosanmohan&repo=rosanmohan&theme=tokyonight&hide_border=true" />
   </a>
-  <!-- Add more projects here by duplicating the line above and changing the repo name -->
 </div>
 
 <!-- Dynamic Recent Activity Section -->
@@ -109,5 +108,5 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rosanmohan&icon=5&color=12" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=rosanmohan&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </p>
