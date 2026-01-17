@@ -64,12 +64,16 @@ I am a passionate **Data Scientist** and **GenAI Engineer** focused on building 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosanmohan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanmohan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosanmohan&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanmohan&layout=compact&hide_border=true)
+
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rosanmohan&theme=tokyonight&hide_border=true" alt="streak graph" />
+
+![Streak Stats](https://streak-stats.demolab.com?user=rosanmohan&theme=dark)
+
 </div>
 
 ---
