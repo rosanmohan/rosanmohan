@@ -1,7 +1,4 @@
-<!-- Banner -->
-<div align="center">
-  <img src="./assets/banner.png" alt="GenAI Banner" width="100%" />
-</div>
+
 
 <!-- Typing Effect -->
 <h1 align="center">
